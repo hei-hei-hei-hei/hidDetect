@@ -1,4 +1,4 @@
-<h1>DuckHunter</h1>
+<h1>DuckHunter（细节看下面)</h1> 
 <h3>Prevent RubberDucky (or other keystroke injection) attacks</h3>
 <h3>Try Out the new setup GUI it helps you to setup the software and we have just released a new feature that allows you to run the script every time your computer starts automatically<h3>
 
