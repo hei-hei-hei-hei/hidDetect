@@ -1,2 +1,3 @@
-# hidDetect
-检测hid攻击
+# HID Detect
+
+检测HID攻击
