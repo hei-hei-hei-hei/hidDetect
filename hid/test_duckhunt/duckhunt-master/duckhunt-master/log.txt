@@ -1,0 +1,33 @@
+
+[ duckhunt.py - duckhunt-master - Visual Studio Code ]
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[ duckhunt.py - duckhunt-master - Visual Studio Code ]
+aaaaaaaaaaaaaa
+[ KeyInjection Detected ]
+aaaaaaaaaaaa
+[ duckhunt.py - duckhunt-master - Visual Studio Code ]
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+[ duckhunt.conf - duckhunt-master - Visual Studio Code ]
+[Lcontrol]c[Lcontrol]vquack
+[ KeyInjection Detected ]
+[Return]aaaaaaaaaaaaaaaa
+[ duckhunt.conf - duckhunt-master - Visual Studio Code ]
+quack
+[ KeyInjection Detected ]
+[Return]aaaaaaaaaaaa[F1][F1]
+[ PixPin ]
+[Lcontrol]c
+[ ½âÎö.md - Typora ]
+[Return][Return][Return][Return][Return][Return][Return]sss
+[ duckhunt.conf - duckhunt-master - Visual Studio Code ]
+aaquack
+[ KeyInjection Detected ]
+[Return]aaaaaaaaaaaaaaa
+[ duckhunt.conf - duckhunt-master - Visual Studio Code ]
+aaaaaaa
+[ duckhunt.bat - Notepad ]
+aaaa
+[ duckhunt.conf - duckhunt-master - Visual Studio Code ]
+quack
+[ PixPin ]
+[Lcontrol]
